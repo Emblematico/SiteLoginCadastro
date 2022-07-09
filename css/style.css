@@ -1,0 +1,16 @@
+.container{
+    font-size:20px;
+    line-height: 1.5em;
+    border-radius: 5px;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.281);
+}
+button{
+    margin: 10px;
+}
+h1{
+    font-weight:bold;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
